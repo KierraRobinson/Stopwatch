@@ -1,0 +1,19 @@
+body {
+  background: #F198C3;
+  color: white;
+  text-align: center;
+}
+
+.name {
+  font-size: 7em;
+}
+
+p {
+  font-size: 50px;
+}
+
+button {
+  width: 180px;
+  padding: 10px 5px;
+  font-size: 2em;
+}
